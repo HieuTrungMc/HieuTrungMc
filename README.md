@@ -60,14 +60,11 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HieuTrungMc&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HieuTrungMc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HieuTrungMc&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&disable_animations=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HieuTrungMc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&disable_animations=true" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HieuTrungMc&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HieuTrungMc&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+  <img src="https://streak-stats.demolab.com?user=HieuTrungMc&theme=tokyonight&hide_border=true&background=0D1117&disable_animations=true" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,100:7F5AF0&height=120&section=footer" width="100%" />
