@@ -49,7 +49,7 @@
 |---|---|---|---|
 | [bookstore-backend-nodejs](https://github.com/HieuTrungMc/bookstore-backend-nodejs) | GreatBook online bookstore: microservices backend (API gateway + book, cart, user services) | TypeScript · Express · Prisma · MySQL | [Live site](https://bookstore-frontend-nextjs.vercel.app) · [frontend repo](https://github.com/minhlq2003/bookstore-frontend-nextjs) |
 | [chat-app-backend-nodejs](https://github.com/HieuTrungMc/chat-app-backend-nodejs) | Real-time chat app backend | Node.js · Express · Socket.IO · MySQL | [Live site](https://chat-app-frontend-nextjs.vercel.app) · [frontend repo](https://github.com/minhlq2003/chat-app-frontend-nextjs) |
-| [HealthApp-Backend](https://github.com/HieuTrungMc/HealthApp-Backend) | API for a health-tracking mobile app (activity, water, sleep, nutrition) | Express · Prisma · MySQL | Mobile app (Expo) · [app repo](https://github.com/nguyentanphatt/HealthApp_Frontend) |
+| [HealthApp-Backend](https://github.com/HieuTrungMc/HealthApp-Backend) | API for a health-tracking mobile app (activity, water, sleep, nutrition) | Express · Prisma · MySQL | [Landing page](https://health-care-landing-page-eight.vercel.app/) · [app repo](https://github.com/nguyentanphatt/HealthApp_Frontend) |
 | [Nhom8_BigData_ChatSkibidi_FinalProject](https://github.com/HieuTrungMc/Nhom8_BigData_ChatSkibidi_FinalProject) | Big Data course final project (team) | Python | – |
 | [spigot-multithreading-trick](https://github.com/HieuTrungMc/spigot-multithreading-trick) | Optimization for big, stable Minecraft servers | Spigot | – |
 | [openwrt-feeds](https://github.com/HieuTrungMc/openwrt-feeds) | Custom OpenWrt package feeds | OpenWrt | – |
