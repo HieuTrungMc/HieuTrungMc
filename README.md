@@ -45,7 +45,7 @@
 
 | Project | What it is | Stack | Demo |
 |---|---|---|---|
-| [mimixd-bot](https://github.com/HieuTrungMc/mimixd-bot) 🔒<br/><sub>private repo</sub> | maimai DX Discord bot (since 2022): B50 image generation, score tracking, chart lookup, daily Heardle and multiplayer music quiz | JavaScript · discord.js · Express · Prisma | [mimixd.app](https://mimixd.app) |
+| [mimixd-bot](https://github.com/HieuTrungMc/mimixd-bot) | A multifunctional maimai DX NET Discord bot with Best 50 image generation, score tracking, chart lookup, minigames and multiplayer music quiz | JavaScript · discord.js · Express · Prisma | [mimixd.app](https://mimixd.app) |
 | [bookstore-backend-nodejs](https://github.com/HieuTrungMc/bookstore-backend-nodejs) | GreatBook online bookstore: microservices backend (API gateway + book, cart, user services) | TypeScript · Express · Prisma · MySQL | [Live site](https://bookstore-frontend-nextjs.vercel.app) · [frontend repo](https://github.com/minhlq2003/bookstore-frontend-nextjs) |
 | [chat-app-backend-nodejs](https://github.com/HieuTrungMc/chat-app-backend-nodejs) | Real-time chat app backend | Node.js · Express · Socket.IO · MySQL | [Live site](https://chat-app-frontend-nextjs.vercel.app) · [frontend repo](https://github.com/minhlq2003/chat-app-frontend-nextjs) |
 | [HealthApp-Backend](https://github.com/HieuTrungMc/HealthApp-Backend) | API for a health-tracking mobile app (activity, water, sleep, nutrition) | Express · Prisma · MySQL | [Landing page](https://health-care-landing-page-eight.vercel.app/) · [app repo](https://github.com/nguyentanphatt/HealthApp_Frontend) |
