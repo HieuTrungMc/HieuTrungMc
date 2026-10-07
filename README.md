@@ -20,7 +20,7 @@
 - 🛠️ Mostly building backends, Discord bots and web apps with **Node.js / TypeScript**
 - 📡 Side quests: OpenWrt feeds, Spigot performance tweaks, poking at random hardware
 
-### 🛠️ Tech stack
+### 🛠️ Tech stack & tools
 
 <table align="center">
   <tr>
@@ -28,16 +28,16 @@
     <td><img src="https://skillicons.dev/icons?i=js,ts,py,java,cs" /></td>
   </tr>
   <tr>
-    <td align="right"><b>Backend & Database</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mysql" /></td>
+    <td align="right"><b>Backend & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mysql,aws,githubactions" /></td>
   </tr>
   <tr>
     <td align="right"><b>Frontend, Mobile & Bots</b></td>
     <td><img src="https://skillicons.dev/icons?i=nextjs,react,discordjs" /></td>
   </tr>
   <tr>
-    <td align="right"><b>Cloud & CI/CD</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,githubactions" /></td>
+    <td align="right"><b>Dev Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=webstorm,vscode,zed,figma,git" /></td>
   </tr>
 </table>
 
@@ -49,7 +49,6 @@
 | [chat-app-backend-nodejs](https://github.com/HieuTrungMc/chat-app-backend-nodejs) | Real-time chat app backend | Node.js · Express · Socket.IO · MySQL | [Live site](https://chat-app-frontend-nextjs.vercel.app) · [frontend repo](https://github.com/minhlq2003/chat-app-frontend-nextjs) |
 | [HealthApp-Backend](https://github.com/HieuTrungMc/HealthApp-Backend) | API for a health-tracking mobile app (activity, water, sleep, nutrition) | Express · Prisma · MySQL | [Landing page](https://health-care-landing-page-eight.vercel.app/) · [app repo](https://github.com/nguyentanphatt/HealthApp_Frontend) |
 | [Nhom8_BigData_ChatSkibidi_FinalProject](https://github.com/HieuTrungMc/Nhom8_BigData_ChatSkibidi_FinalProject) | Big Data course final project (team) | Python | – |
-| [spigot-multithreading-trick](https://github.com/HieuTrungMc/spigot-multithreading-trick) | Optimization for big, stable Minecraft servers | Spigot | – |
 | [openwrt-feeds](https://github.com/HieuTrungMc/openwrt-feeds) | Custom OpenWrt package feeds | OpenWrt | – |
 
 ### 📊 GitHub stats
