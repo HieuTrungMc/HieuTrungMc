@@ -18,7 +18,7 @@
 - 🎓 Graduated from **Industrial University of Ho Chi Minh City (IUH)**
 - 🤖 Creator of **[mimi xd bot](https://mimixd.app)**, a maimai DX Discord bot running since 2022
 - 🛠️ Mostly building backends, Discord bots and web apps with **Node.js / TypeScript**
-- 📡 Side quests: OpenWrt feeds, Spigot performance tweaks, poking at random hardware
+- 📡 Side quests: Building OnigiriWrt on my free time, poking at random hardware
 
 ### 🛠️ Tech stack & tools
 
@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td align="right"><b>Dev Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=webstorm,vscode,zed,figma,git" /></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=webstorm,vscode,zed,figma,git&theme=dark" /></td>
   </tr>
 </table>
 
