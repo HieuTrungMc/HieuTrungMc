@@ -10,7 +10,6 @@
   <a href="https://mimixd.app"><img src="https://img.shields.io/badge/mimi%20xd%20bot-mimixd.app-7F5AF0?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://twitter.com/hieutrungmc"><img src="https://img.shields.io/badge/@hieutrungmc-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://facebook.com/hieutrungmc"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://satancraft.net"><img src="https://img.shields.io/badge/SatanCraft-Minecraft%20server-B91C1C?style=for-the-badge" /></a>
   <img src="https://komarev.com/ghpvc/?username=HieuTrungMc&style=for-the-badge&color=2CB67D&label=PROFILE+VIEWS" />
 </p>
 
@@ -18,44 +17,42 @@
 
 ### 🧑‍💻 About me
 
-- 🎓 4th-year student at **Industrial University of Ho Chi Minh City (IUH)**
+- 🎓 Graduated from **Industrial University of Ho Chi Minh City (IUH)**
 - 🤖 Creator of **[mimi xd bot](https://mimixd.app)**, a maimai DX Discord bot running since 2022
 - 🛠️ Mostly building backends, Discord bots and web apps with **Node.js / TypeScript**
-- ⛏️ Running **[SatanCraft](https://satancraft.net)**, my Minecraft server
 - 📡 Side quests: OpenWrt feeds, Spigot performance tweaks, poking at random hardware
-- 🌏 Vietnam (UTC+7) · he/him
-
-### 🎵 Featured: mimi xd bot
-
-> *Your mighty maimai DX sidekick.* Built with Nebbilies and friends.
-
-| Command | What it does |
-|---|---|
-| `m>top` | Renders your Best 50 (B50) image |
-| `m>farm` | moiGBT picks charts worth farming to rank up |
-| `m>heardle` | Daily maimai song guessing game |
-| `m>guess` | Minigames menu, incl. multiplayer Music Quiz |
-| `m>c` | Compare scores on any chart |
-| `m>info` | Chart lookup |
-
-<a href="https://mimixd.app"><img src="https://img.shields.io/badge/Add%20mimi%20xd%20to%20your%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
 ### 🛠️ Tech stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,py,java,cs,kotlin,c,discord,linux,git&perline=13" />
-</p>
+<table align="center">
+  <tr>
+    <td align="right"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,py,java,cs" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend & Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mysql" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend, Mobile & Bots</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,react,discordjs" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Cloud & CI/CD</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,githubactions" /></td>
+  </tr>
+</table>
 
 ### 📂 Projects
 
-| Project | Stack | Notes |
-|---|---|---|
-| [bookstore-backend-nodejs](https://github.com/HieuTrungMc/bookstore-backend-nodejs) | TypeScript · Node.js | Bookstore API · [frontend](https://github.com/minhlq2003/bookstore-frontend-nextjs) (Next.js) |
-| [chat-app-backend-nodejs](https://github.com/HieuTrungMc/chat-app-backend-nodejs) | JavaScript · Node.js | Chat app backend · [frontend](https://github.com/minhlq2003/chat-app-frontend-nextjs) (Next.js) |
-| [HealthApp-Backend](https://github.com/HieuTrungMc/HealthApp-Backend) | JavaScript | Health app API · [frontend](https://github.com/nguyentanphatt/HealthApp_Frontend) |
-| [Nhom8_BigData_ChatSkibidi_FinalProject](https://github.com/HieuTrungMc/Nhom8_BigData_ChatSkibidi_FinalProject) | Python | Big Data course final project (team) |
-| [spigot-multithreading-trick](https://github.com/HieuTrungMc/spigot-multithreading-trick) | Spigot | Optimization for big, stable Minecraft servers |
-| [openwrt-feeds](https://github.com/HieuTrungMc/openwrt-feeds) | OpenWrt | Custom OpenWrt package feeds |
+| Project | What it is | Stack | Demo |
+|---|---|---|---|
+| [bookstore-backend-nodejs](https://github.com/HieuTrungMc/bookstore-backend-nodejs) | GreatBook online bookstore: microservices backend (API gateway + book, cart, user services) | TypeScript · Express · Prisma · MySQL | [Live site](https://bookstore-frontend-nextjs.vercel.app) · [frontend repo](https://github.com/minhlq2003/bookstore-frontend-nextjs) |
+| [chat-app-backend-nodejs](https://github.com/HieuTrungMc/chat-app-backend-nodejs) | Real-time chat app backend | Node.js · Express · Socket.IO · MySQL | [Live site](https://chat-app-frontend-nextjs.vercel.app) · [frontend repo](https://github.com/minhlq2003/chat-app-frontend-nextjs) |
+| [HealthApp-Backend](https://github.com/HieuTrungMc/HealthApp-Backend) | API for a health-tracking mobile app (activity, water, sleep, nutrition) | Express · Prisma · MySQL | Mobile app (Expo) · [app repo](https://github.com/nguyentanphatt/HealthApp_Frontend) |
+| [Nhom8_BigData_ChatSkibidi_FinalProject](https://github.com/HieuTrungMc/Nhom8_BigData_ChatSkibidi_FinalProject) | Big Data course final project (team) | Python | – |
+| [spigot-multithreading-trick](https://github.com/HieuTrungMc/spigot-multithreading-trick) | Optimization for big, stable Minecraft servers | Spigot | – |
+| [openwrt-feeds](https://github.com/HieuTrungMc/openwrt-feeds) | Custom OpenWrt package feeds | OpenWrt | – |
 
 ### 📊 GitHub stats
 
