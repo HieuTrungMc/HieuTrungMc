@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=200&section=header&text=Phan%20Trung%20Hieu&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=HieuTrungMc%20%C2%B7%20Ho%20Chi%20Minh%20City%2C%20Vietnam&descSize=16&descAlignY=58" width="100%" />
 </p>
 
-<p align="center">
-  <img src="./hello.svg" alt="Hi there, I'm Hieu 👋" />
-</p>
+<h3 align="center">Hi there, I'm Phan Trung Hieu 👋</h3>
 
 <p align="center">
   <a href="https://mimixd.app"><img src="https://img.shields.io/badge/mimi%20xd%20bot-mimixd.app-7F5AF0?style=for-the-badge&logo=discord&logoColor=white" /></a>
