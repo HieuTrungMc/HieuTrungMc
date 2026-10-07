@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Hieu+%F0%9F%91%8B;4th-year+student+%40+IUH;Creator+of+mimi+xd+bot+%F0%9F%8E%B5;Backend+%C2%B7+Discord+bots+%C2%B7+Web" alt="Typing SVG" />
+  <img src="./hello.svg" alt="Hi there, I'm Hieu 👋" />
 </p>
 
 <p align="center">
